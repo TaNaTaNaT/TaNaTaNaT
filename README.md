@@ -66,7 +66,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aphr-jose-briones/)
 📧 josebrioguz@gmail.com
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TaNaTaNaT&show_icons=true&theme=radical)
